@@ -1,0 +1,9 @@
+        printf("sub = %d\n",ans);
+        ans = mul(a, b);
+        printf("mul = %d\n",ans);
+        ans = div(a, b);
+        printf("div = %d\n",ans);
+        ans = mod(a, b);
+        printf("mod = %d\n",ans);
+	return 0;
+}
